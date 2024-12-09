@@ -48,7 +48,9 @@ Esta fluidez no solo optimiza los tiempos de producción, sino que también abre
 
 En el siguiente vídeo se puede ver con claridad cada uno de los puntos que he abordado, donde se aprecia claramente cómo convergen distintos medios y lenguajes en un proceso de hibridación. Este fenómeno, siguiendo la perspectiva de Manovich, no solo combina elementos preexistentes, sino que transforma sus lógicas internas para dar lugar a un nuevo medio,
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gUnxzVOs3rk?si=CYCa97NVWhOMTH7q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+*Haz click en la imagen para ver el vídeo
+[![The Virtual Production of The Mandalorian Season One](https://i.ytimg.com/vi/gUnxzVOs3rk/maxresdefault.jpg)](https://www.youtube.com/watch?v=gUnxzVOs3rk)
+*Haz click en la imagen para ver el vídeo
 
 ## Hibridación y nuevos lenguajes audiovisuales
 
