@@ -15,7 +15,9 @@ Fecha: 09 de deiciembre de 2024
 ## Planteamiento
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+La hibridación crea una interacción profunda entre medios, formando nuevas estructuras y lenguajes. Este fenómeno es característico de las tecnologías contemporáneas, donde diferentes tecnologías, de diferentes épocas se fusionan para generar experiencias híbridas.
+
+El análisis de hibridación se distingue de la remediación (reinterpretación de un medio en otro) y de la multimedia por su capacidad de crear nuevas plataformas, lenguajes y formas de interacción. En este documento, voy a explorar a detalle dos casos: el uso de Unreal Engine en producciones audiovisuales y Traktor DJ en el DJing moderno.
 
 
 # Caso 1: Unreal Engine y la hibridación del medio en la producción cinematográfica
