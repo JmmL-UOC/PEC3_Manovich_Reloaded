@@ -36,15 +36,19 @@ La hibridación, por lo tanto, no debe confundirse con diferentes aplicaciones m
 Unreal Engine es un software diseñado inicialmente para renderizar gráficos en tiempo real en videojuegos. Su capacidad para generar entornos tridimensionales hiperrealistas con una alta eficiencia lo hizo destacar rápidamente en la industria del videojuego, donde en su haber tiene grandes títulos triple A como Ark III o Dune:Awakening. Sin embargo, su adopción en la producción audiovisual representa un cambio de paradigma y un hito en la evolución de la producción de estas obras audiovisuales. En series como *The Mandalorian*, Unreal Engine se utiliza para crear fondos y escenarios virtuales que se proyectan en pantallas LED gigantes, conocidas como volúmenes virtuales. Este enfoque elimina la necesidad del tradicional chroma key, permitiendo a los actores interactuar directamente con los escenarios digitales en tiempo real. Además permite adaptar las escenas rápidamente y ayuda a los actores a entrar más en el papel. 
 
 ![An LED stage employed for 'The Mandalorian.' Courtesy of Melinda Sue Gordon/Lucasfilm Ltd./Disney+](https://www.hollywoodreporter.com/wp-content/uploads/2022/10/Print-Issue-31-rep_page-3-Virtual-Production-Mandalorian-Publicity-H-2022.jpg?w=1296&h=730&crop=1&resize=1000%2C563)
-*Figura 1: LED stage employed for 'The Mandalorian.' Fuente: [Courtesy of Melinda Sue Gordon/Lucasfilm Ltd./Disney+ ]
+*StageCraft: LED stage employed for 'The Mandalorian.' Fuente: [Courtesy of Melinda Sue Gordon/Lucasfilm Ltd./Disney+ ]
 
 
-Como comentaba más arriba y para darle continuidad, lo que hace único a Unreal Engine no es solo su capacidad técnica, sino la forma en que reconfigura la manera en la que se filma una película o una serie. Tradicionalmente, la preproducción, producción y posproducción eran fases separadas y lineales. Con Unreal Engine, estas etapas se integran en un flujo continuo, donde los entornos digitales pueden ajustarse instantáneamente durante el rodaje.
+Como comentaba más arriba y para darle continuidad, lo que hace único y especial a Unreal Engine no es solo su capacidad técnica, sino la forma en que reconfigura la manera en la que se filma una película o una serie. Tradicionalmente, la preproducción, producción y posproducción eran fases separadas y lineales. Con Unreal Engine, estas etapas se integran en un flujo continuo, donde los entornos digitales pueden ajustarse instantáneamente durante el rodaje.
 
 > "El software permite que los procesos creativos sean fluidos, integrados y altamente adaptables, desafiando las estructuras tradicionales de producción."  
-> (*El software toma el mando*, p. 96)
+> (*El software toma el mando*, Lev Manovich.)
 
-Esta fluidez no solo optimiza los tiempos de producción, sino que también abre nuevas posibilidades creativas. Los directores pueden experimentar con diferentes configuraciones de cámara y luz en tiempo real, mientras los actores se sumergen en entornos que se sienten tangibles y auténticos. Este nivel de interacción entre humanos y medios digitales es, en sí mismo, un ejemplo de hibridación, donde las lógicas del software y las necesidades humanas convergen para generar nuevas dinámicas de creación.
+Esta fluidez no solo optimiza los tiempos de producción, sino que también abre nuevas posibilidades creativas. Los directores pueden experimentar con diferentes configuraciones de cámara y luz en tiempo real, mientras los actores se sumergen en entornos que se sienten como reales. Este nivel de interacción entre humanos y medios digitales es, yo lo considero en toda su esencia, un ejemplo de hibridación, donde las lógicas del software y las necesidades humanas se fusionan para generar el resultado final que vemos en pantalla.
+
+En el siguiente vídeo se puede ver con claridad cada uno de los puntos que he abordado, donde se aprecia claramente cómo convergen distintos medios y lenguajes en un proceso de hibridación. Este fenómeno, siguiendo la perspectiva de Manovich, no solo combina elementos preexistentes, sino que transforma sus lógicas internas para dar lugar a un nuevo medio,
+
+[![The Virtual Production of The Mandalorian Season One](https://i.ytimg.com/vi/gUnxzVOs3rk/maxresdefault.jpg)](https://www.youtube.com/watch?v=gUnxzVOs3rk)
 
 ## Hibridación y nuevos lenguajes audiovisuales
 
