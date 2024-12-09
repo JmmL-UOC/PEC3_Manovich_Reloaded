@@ -27,7 +27,7 @@ En los últimos años he visto que el avance tecnológico ha transformado profun
 Antes de adentrame en el caso de Unreal Engine, creo que es crucial entender el concepto de hibridación según Manovich. En su obra *El software toma el mando*, Manovich describe la hibridación como un proceso mediante el cual diferentes medios se integran, no solo en términos de su contenido, sino también en su estructura, lógica y funcionalidad. Esta integración no implica simplemente una superposición, sino una transformación mutua que da lugar a un "nuevo medio" con características únicas.
 
 > "La hibridación de medios no es simplemente la suma de sus partes; es un proceso donde cada medio aporta su lógica y estructura, y ambas se combinan para formar algo nuevo y distintivo."  
-> (*El software toma el mando*, Lev Manovich)
+> (*El software toma el mando*, Lev Manovich.)
 
 La hibridación, por lo tanto, no debe confundirse con diferentes aplicaciones multimedia o digitales, que suele implicar la coexistencia de elementos de diferentes medios (como texto, imágenes y sonido) sin una integración profunda. En el caso de Unreal Engine, estamos ante una hibridación en el sentido total de la palabra: un motor gráfico muy potente que combina las lógicas del videojuego, la cinematografía y grandes pantallas de reproducción, redefiniendo las posibilidades estéticas de la producción cinematográfica.
 
@@ -36,9 +36,10 @@ La hibridación, por lo tanto, no debe confundirse con diferentes aplicaciones m
 Unreal Engine es un software diseñado inicialmente para renderizar gráficos en tiempo real en videojuegos. Su capacidad para generar entornos tridimensionales hiperrealistas con una alta eficiencia lo hizo destacar rápidamente en la industria del videojuego, donde en su haber tiene grandes títulos triple A como Ark III o Dune:Awakening. Sin embargo, su adopción en la producción audiovisual representa un cambio de paradigma y un hito en la evolución de la producción de estas obras audiovisuales. En series como *The Mandalorian*, Unreal Engine se utiliza para crear fondos y escenarios virtuales que se proyectan en pantallas LED gigantes, conocidas como volúmenes virtuales. Este enfoque elimina la necesidad del tradicional chroma key, permitiendo a los actores interactuar directamente con los escenarios digitales en tiempo real. Además permite adaptar las escenas rápidamente y ayuda a los actores a entrar más en el papel. 
 
 ![An LED stage employed for 'The Mandalorian.' Courtesy of Melinda Sue Gordon/Lucasfilm Ltd./Disney+](https://www.hollywoodreporter.com/wp-content/uploads/2022/10/Print-Issue-31-rep_page-3-Virtual-Production-Mandalorian-Publicity-H-2022.jpg?w=1296&h=730&crop=1&resize=1000%2C563)
+*Figura 1: LED stage employed for 'The Mandalorian.' Fuente: [Courtesy of Melinda Sue Gordon/Lucasfilm Ltd./Disney+ ]
 
 
-Lo que hace único a Unreal Engine no es solo su capacidad técnica, sino la forma en que reconfigura las etapas de la producción cinematográfica. Tradicionalmente, la preproducción, producción y posproducción eran fases separadas y lineales. Con Unreal Engine, estas etapas se integran en un flujo continuo, donde los entornos digitales pueden ajustarse instantáneamente durante el rodaje.
+Como comentaba más arriba y para darle continuidad, lo que hace único a Unreal Engine no es solo su capacidad técnica, sino la forma en que reconfigura la manera en la que se filma una película o una serie. Tradicionalmente, la preproducción, producción y posproducción eran fases separadas y lineales. Con Unreal Engine, estas etapas se integran en un flujo continuo, donde los entornos digitales pueden ajustarse instantáneamente durante el rodaje.
 
 > "El software permite que los procesos creativos sean fluidos, integrados y altamente adaptables, desafiando las estructuras tradicionales de producción."  
 > (*El software toma el mando*, p. 96)
