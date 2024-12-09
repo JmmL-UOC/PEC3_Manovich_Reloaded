@@ -46,36 +46,39 @@ Como comentaba más arriba y para darle continuidad, lo que hace único y especi
 
 Esta fluidez no solo optimiza los tiempos de producción, sino que también abre nuevas posibilidades creativas. Los directores pueden experimentar con diferentes configuraciones de cámara y luz en tiempo real, mientras los actores se sumergen en entornos que se sienten como reales. Este nivel de interacción entre humanos y medios digitales es, yo lo considero en toda su esencia, un ejemplo de hibridación, donde las lógicas del software y las necesidades humanas se fusionan para generar el resultado final que vemos en pantalla.
 
-En el siguiente vídeo se puede ver con claridad cada uno de los puntos que he abordado, donde se aprecia claramente cómo convergen distintos medios y lenguajes en un proceso de hibridación. Este fenómeno, siguiendo la perspectiva de Manovich, no solo combina elementos preexistentes, sino que transforma sus lógicas internas para dar lugar a un nuevo medio,
+En el siguiente vídeo (presiona sobre la imagen de abajo para ver el vídeo)se puede ver con claridad cada uno de los puntos que he abordado, donde se aprecia claramente cómo convergen distintos medios y lenguajes en un proceso de hibridación. Este fenómeno, siguiendo la perspectiva de Manovich, no solo combina elementos preexistentes, sino que transforma sus lógicas internas para dar lugar a un nuevo medio,
 
-> *Haz click en la imagen para ver el vídeo
 > [![The Virtual Production of The Mandalorian Season One](https://i.ytimg.com/vi/gUnxzVOs3rk/maxresdefault.jpg)](https://www.youtube.com/watch?v=gUnxzVOs3rk)
-> *Haz click en la imagen para ver el vídeo
+> *HAZ CLICK EN LA IMAGEN DE ARRIBA PARA VER EL VÍDEO
 
 ## Hibridación y nuevos lenguajes audiovisuales
 
-Unreal Engine no se limita a ser una herramienta técnica; es un **metamedio** en el sentido que describe Manovich. Actúa como un entorno donde múltiples medios (cine, videojuegos, diseño arquitectónico) no solo coexisten, sino que interactúan para crear algo completamente nuevo. Este proceso de integración da lugar a un lenguaje audiovisual híbrido, donde los algoritmos y los datos desempeñan un papel central.
+Unreal Engine no se limita a ser una herramienta técnica; considero que es un **metamedio** en el sentido que describe Manovich. Actúa como un entorno donde múltiples medios (cine, videojuegos, diseño arquitectónico) no solo coexisten, sino que se relacionan entre sí de tal manera que se fusionan para crear algo completamente nuevo. 
 
 > "El software, al convertirse en un metamedio, redefine no solo la producción de los medios, sino también las formas en que estos son percibidos e interpretados."  
-> (*El software toma el mando*, p. 131)
+> (*El software toma el mando*, Lev Manovich.)
 
-En este contexto, el lenguaje cinematográfico tradicional, basado en cámaras físicas y sets reales, se combina con las posibilidades ilimitadas de los gráficos generados por computadora. Esto permite una flexibilidad narrativa y visual que antes era impensable. Por ejemplo, en *The Mandalorian*, los paisajes alienígenas no solo son escenarios; se convierten en personajes en sí mismos, contribuyendo a la atmósfera y la narrativa de la serie. Este tipo de representación híbrida es un claro ejemplo de cómo la hibridación puede enriquecer el lenguaje de los medios.
+En este contexto, el lenguaje cinematográfico tradicional, basado en cámaras físicas y escenarios físicos reales, se combina con las posibilidades ilimitadas de los gráficos generados por ordenador usando Unreal Engine. Esto permite una flexibilidad narrativa y visual que antes era impensable. Por ejemplo, en *The Mandalorian*, los paisajes en los planetas del universo de Star Wars no solo son escenarios, se convierten en personajes en sí mismos, contribuyendo a la atmósfera y la narrativa de la serie. Este tipo de representación híbrida es un claro ejemplo de cómo la hibridación puede enriquecer el lenguaje de los medios.
 
-## Estética y representación en la era híbrida
+![StageCraft: The mandalorian](https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2024/04/volumen-lucasfilm-rodaje-mandalorian-stagecraft-3303265.jpg?tf=1200x)
+*StageCraft: Set 2 The Mandaolorian
 
-La estética que emerge de esta hibridación es profundamente digital, pero no por ello menos humana. Los entornos creados por Unreal Engine son hiperrealistas, pero también altamente estilizados, reflejando las decisiones algorítmicas y creativas que los generan. Esta combinación de realismo y artificialidad crea una estética que Manovich describe como "fluida y personalizada".
+### 5. Riesgos a considerar
 
-> "La estética digital no se limita a imitar la realidad; la reinventa, ofreciendo nuevas formas de expresión y percepción."  
-> (*El software toma el mando*, p. 103)
+Aunque esta tecnología la considero brillante también tengo que verlo desde una visión algo más crítioca. Si bien la adopción de Unreal Engine ha democratizado la capacidad de crear escenarios visualmente impactantes, también existe el riesgo de que la estética de las producciones sea similar entre todas las producciones cinematográficas. Al utilizar un conjunto limitado de herramientas y efectos, los creadores pueden caer en una especie de "look estándar", donde las producciones, aunque técnicamente avanzadas, carecen de lo que se puede denominar como la propia alma de la película. 
 
-Esta estética fluida no solo afecta a los espectadores, sino también a los propios creadores. Los directores y diseñadores tienen la libertad de experimentar en tiempo real, modificando los entornos digitales mientras trabajan. Este nivel de interacción redefine la relación entre los creadores y los medios, fomentando una creatividad más dinámica y colaborativa.
+> "La lógica del software no solo configura el contenido; también impone una estética compartida que puede homogeneizar las producciones."  
+> (*El software toma el mando*, Lev Manovich.)
+
+Esta "línea recta" estética podría hacer que el público se acostumbre a ciertos tipos de escenarios visuales generados por Unreal Engine, lo que al final limitará la diversidad estilística que históricamente se ha logrado con técnicas cinematográficas más tradicionales y eso es algo que podemos ver hoy en día con las producciones sobresaturadas de CGI. Como además comenta uno de los mejores directores de cine en la actualidad, Christopher Nolan:
+
+> "Creo que los efectos especiales generados por computadora, por versátiles que sean, siempre me resultan un poco seguros."
+
 
 ## Reflexión final
 
-El uso de Unreal Engine en *The Mandalorian* es un ejemplo paradigmático de cómo la hibridación de medios está transformando la producción audiovisual. Más allá de ser una herramienta técnica, Unreal Engine actúa como un catalizador para la creación de nuevos lenguajes, estéticas y dinámicas creativas. Como señala Manovich, el software no es solo un medio; es un entorno donde los medios pueden evolucionar, interactuar y reinventarse.
+El uso de Unreal Engine en *The Mandalorian* es un gran ejemplo  de cómo la hibridación de medios está transformando la producción audiovisual. Más allá de ser una herramienta técnica, Unreal Engine actúa  para la creación de nuevos lenguajes, estéticas y dinámicas creativas. Como señala Manovich, el software no es solo un medio; es un entorno donde los medios pueden evolucionar, interactuar y reinventarse.
 
-> "El software no es solo una herramienta; es el marco desde el cual se construyen y reconstruyen los medios contemporáneos."  
-> (*El software toma el mando*, p. 150)
 
 En última instancia, Unreal Engine nos invita a repensar lo que entendemos por "cine" y "narrativa". En un mundo donde las fronteras entre lo real y lo virtual se desvanecen, la hibridación no es solo una tendencia; es el futuro de la creación cultural.
 
