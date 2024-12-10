@@ -87,7 +87,7 @@ En última instancia, Unreal Engine nos invita a repensar lo que entendemos por 
 ---
 
 
-## Caso 2: Traktor DJ de Native Instruments y la evolución del DJing digital
+# Caso 2: Traktor DJ de Native Instruments y la evolución del DJing digital
 
 ### Transformación del DJ una nueva era híbrida
 
