@@ -104,7 +104,7 @@ Me apetece mucho comentar el caso de Traktor DJ de Native Instruments porque me 
 
 Traktor DJ cuando lo analizas, no es solamente un software donde reproducir música, aquí necesitas integrar el hardware (mesa de mezclas,tabla de efectos..etc) con el software y los propios datos, lo que consituye claramente un ejemplo de hibridación en su máximo explendor. La mezcla de pistas, que pueden ser canciones completas, samples, o diferentes efectos, ya no se limita a la alineación manual (y de mucho oído) de canciones, sino que utiliza algoritmos avanzados para analizary sincronizar BPM, tonos y patrones rítmicos.
 
-![Traktor Dj Interface ](https://www.native-instruments.com/typo3temp/pics/img-ce-gallery-traktor-pro-4-product-page-02-gallery-a-main-new-bdc5e8f4a0cb7f43a750233be2e1a9b2-d.jpg)
+![Traktor Dj Interface ](https://viciousmagazine.com/wp-content/uploads/2021/07/traktor-pro-3-hero.jpg)
 *Traktor DJ Fuente: [Native Instruments]
 
 Toda esta combinación transforma el acto mismo de mezclar música en una práctica híbrida donde en todo momento se tiene que transmitir energía y emociones a las personas que escuchan. En el caso de Traktor creamos un nuevo lenguaje donde que se pueden practicas y exponer nuevas técnicas que permiten una experiencia interactiva y fluida, de igual manera como Manovic nos indica en su libro:
