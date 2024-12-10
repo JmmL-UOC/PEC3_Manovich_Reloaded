@@ -87,16 +87,54 @@ En última instancia, Unreal Engine nos invita a repensar lo que entendemos por 
 ---
 
 
+## Caso 2: Traktor DJ de Native Instruments y la evolución del DJing digital
 
+### Transformación del DJ una nueva era híbrida
 
-## Re-descubriendo la hibridacion: Caso 2
+Me apetece mucho comentar el caso de Traktor DJ de Native Instruments porque me pega muy de cerca ya que durante muchos años he pinchado música, empezando hace más de 25 años utilizando unos "platos" que no funcionaban bien para terminar utilizando un ordenador (o USB) y directamente un software llamado Traktor.  Como buen conocedor de todas y cada una de las fases por la que ha pasado la acción de poner música, considero que Traktor representa una de las innovaciones más espectaculares en el campo del de la mezcla de música, donde lo analógico y lo digital se fusionan para redefinir las formas de interactuar con la música. Este software me ha permitido a lo largo de los años evolucionar las limitaciones físicas de los vinilos o los CDs para abrazar un entorno totalmente diferente donde la música está disponible como fichero digital puede manipularse en tiempo real al antonjo del DJ. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> "La tecnología digital no solo remedia lo existente, sino que genera nuevas capacidades y experiencias"
+> (*El software toma el mando*, Lev Manovich.)
 
+---
+
+### Hibridación en mayúsculas
+
+Traktor DJ cuando lo analizas, no es solamente un software donde reproducir música, aquí necesitas integrar el hardware (mesa de mezclas,tabla de efectos..etc) con el software y los propios datos, lo que consituye claramente un ejemplo de hibridación en su máximo explendor. La mezcla de pistas, que pueden ser canciones completas, samples, o diferentes efectos, ya no se limita a la alineación manual (y de mucho oído) de canciones, sino que utiliza algoritmos avanzados para analizary sincronizar BPM, tonos y patrones rítmicos. Toda esta combinación transforma el acto mismo de mezclar música en una práctica híbrida donde en todo momento se tiene que transmitir energía y emociones a las personas que escuchan. En el caso de Traktor creamos un nuevo lenguaje donde que se pueden practicas y exponer nuevas técnicas que permiten una experiencia interactiva y fluida, de igual manera como Manovic nos indica en su libro:
+
+> "La hibridación reconfigura las prácticas culturales y crea nuevos lenguajes"
+> (*El software toma el mando*, Lev Manovich.). 
+
+---
+
+### No sólo es música
+
+Con la aparición de este softwre, y otros similares, el acto de poner música ha cambiado drásticamente y a evolucionado también a un mundo más complejo donde no solamente es poner una canción tras otra. El programa de Traktor, permite además sincronizarse con otros elementos como los propios elementos visuales del entorno donde se pincha, el uso de pantallas gigantes, diferentes focos de luz, u otros efectos. Por lo que al final la música y el Traktor no solo guía al DJ, sino que también crea una atmósfera visual y sonora que puede ser compartida con el público.  Manovich destaca que "las tecnologías digitales permiten que lo visual, lo auditivo y lo táctil se integren de maneras previamente inexploradas" . Esto se refleja en cómo los grandes DJ en grandes festivales de música interactúan simultáneamente con datos visuales en sus pantallas de los ordenadores, controles físicos (analógicos en su mayoría9 y el público, generando un entorno y una atmósferas únicas. 
+
+---
+
+### Reflexiones críticas del uso de Traktor DJ
+
+Aunque no todo es de color de rosa. Yo vengo de una era analógica, donde era necesario aprender diferentes aspectos musicales donde se entrenaba el oído, se aprendían los compases, tonos y escalas de la música (en mi caso electrónica), además de aprender ciertos aspectos avanzados sobre la equalización correcta delas canciones para no romper un equipo de sonido. Hoy en día toda esa parte se ve diluida en gran parte por culpa del uso de Traktor, donde gran parte el trabajo previo que tiene que realizar un DJ, este software ya lo ahorra por lo que se ven limitadas o totalmente anuladas las habilidades tradicionales, lo que lleva a algunos críticos, donde yo me uno, a cuestionar la autenticidad del los DJ que solo usan entornos digitales. De tal manera recuerdo que Manovich advierte que "la dependencia excesiva de algoritmos puede limitar la creatividad y uniformar los resultados".  Este debate destaca la importancia de encontrar un equilibrio entre el uso de tecnología y la expresión artística.
+
+---
+
+### Reflexión final
+
+Traktor DJ es un caso ejemplar de cómo la hibridación de medios redefine las prácticas culturales, creando nuevas formas de expresión y representación. Su impacto en el DJing es innegable, ofreciendo herramientas que no solo amplían las capacidades técnicas, sino que también transforman la interacción entre el artista, el público y la música. No obstante, este avance tecnológico también exige reflexionar sobre los límites entre la automatización y la creatividad, y cómo estos influyen en la autenticidad artística en la era digital.
+
+---
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* Real time movie production on lockdown - https://www.indiewire.com/features/general/the-mandalorian-real-time-virtual-production-saving-hollywood-lockdown-vfx-1202230120/
+* Así es la tecnología detrás de "The mandalorían" - https://www.muycomputer.com/2019/11/26/asi-es-la-tecnologia-de-rodaje-detras-de-star-wars-the-mandalorian/
+* ILM & Stagecraft - https://www.vfxwire.com/industrial-light-magic-to-expand-stagecraft-led-virtual-production-offering-with-new-facility-in-vancouver/
+* Pros y contras de Stagecraft - https://www.hobbyconsolas.com/reportajes/pros-contras-stagecraft-tecnologia-ha-llegado-quedarse-cine-series-1381589
+* The tech behind The Mandalorian - https://www.hollywoodreporter.com/business/digital/volume-house-of-the-dragon-stage-mandalorian-1235244158/
+* Native Instruments. "Traktor DJ." Sitio oficial: [https://www.native-instruments.com](https://www.native-instruments.com)
+
 
 
 ----
