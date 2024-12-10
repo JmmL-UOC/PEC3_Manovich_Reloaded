@@ -104,7 +104,7 @@ Me apetece mucho comentar el caso de Traktor DJ de Native Instruments porque me 
 
 Traktor DJ cuando lo analizas, no es solamente un software donde reproducir música, aquí necesitas integrar el hardware (mesa de mezclas,tabla de efectos..etc) con el software y los propios datos, lo que consituye claramente un ejemplo de hibridación en su máximo explendor. La mezcla de pistas, que pueden ser canciones completas, samples, o diferentes efectos, ya no se limita a la alineación manual (y de mucho oído) de canciones, sino que utiliza algoritmos avanzados para analizary sincronizar BPM, tonos y patrones rítmicos.
 
-![Traktor Dj Interface ](https://news.djcity.com/wp-content/uploads/2019/02/Traktor-top.jpg)
+![Traktor Dj Interface ](https://www.native-instruments.com/typo3temp/pics/img-ce-gallery-traktor-pro-4-product-page-02-gallery-a-main-new-bdc5e8f4a0cb7f43a750233be2e1a9b2-d.jpg)
 *Traktor DJ Fuente: [Native Instruments]
 
 Toda esta combinación transforma el acto mismo de mezclar música en una práctica híbrida donde en todo momento se tiene que transmitir energía y emociones a las personas que escuchan. En el caso de Traktor creamos un nuevo lenguaje donde que se pueden practicas y exponer nuevas técnicas que permiten una experiencia interactiva y fluida, de igual manera como Manovic nos indica en su libro:
@@ -118,7 +118,7 @@ Toda esta combinación transforma el acto mismo de mezclar música en una práct
 
 Con la aparición de este softwre, y otros similares, el acto de poner música ha cambiado drásticamente y a evolucionado también a un mundo más complejo donde no solamente es poner una canción tras otra. El programa de Traktor, permite además sincronizarse con otros elementos como los propios elementos visuales del entorno donde se pincha, el uso de pantallas gigantes, diferentes focos de luz, u otros efectos. Por lo que al final la música y el Traktor no solo guía al DJ, sino que también crea una atmósfera visual y sonora que puede ser compartida con el público.  Manovich destaca que "las tecnologías digitales permiten que lo visual, lo auditivo y lo táctil se integren de maneras previamente inexploradas" . Esto se refleja en cómo los grandes DJ en grandes festivales de música interactúan simultáneamente con datos visuales en sus pantallas de los ordenadores, controles físicos (analógicos en su mayoría9 y el público, generando un entorno y una atmósferas únicas. 
 
-![Traktor Dj Interface ](https://blog.native-instruments.com/wp-content/uploads/dynamic/2022/05/volta-xr-hero-1400x0-c-default.jpg](https://www.native-instruments.com/typo3temp/pics/img-ce-gallery-traktor-pro-4-product-page-02-gallery-a-main-new-bdc5e8f4a0cb7f43a750233be2e1a9b2-d.jpg)
+![Traktor Dj Interface ](https://blog.native-instruments.com/wp-content/uploads/dynamic/2022/05/volta-xr-hero-1400x0-c-default.jpg)
 
 ---
 
