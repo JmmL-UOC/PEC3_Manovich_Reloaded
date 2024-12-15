@@ -6,7 +6,7 @@
 Autor: Juan Manuel Matamoros López
 
 
-Fecha: 09 de deiciembre de 2024
+Fecha: 09 de diciembre de 2024
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
@@ -17,7 +17,7 @@ Fecha: 09 de deiciembre de 2024
 
 La hibridación crea una interacción profunda entre medios, formando nuevas estructuras y lenguajes. Este fenómeno es característico de las tecnologías contemporáneas, donde diferentes tecnologías, de diferentes épocas se fusionan para generar experiencias híbridas.
 
-El análisis de hibridación se distingue de la remediación (reinterpretación de un medio en otro) y de la multimedia por su capacidad de crear nuevas plataformas, lenguajes y formas de interacción. En este documento, voy a explorar a detalle dos casos: el uso de Unreal Engine en producciones audiovisuales y Traktor DJ en el DJing moderno.
+El análisis de hibridación se distingue de la remediación (reinterpretación de un medio en otro) y de la multimedia por su capacidad de crear nuevas plataformas, lenguajes y formas de interacción. En este documento, voy a explorar a detalle dos casos: el uso de Unreal Engine en producciones audiovisuales y Traktor DJ en el las mezclas musicales modeernas. 
 
 
 # Caso 1: Unreal Engine y la hibridación del medio en la producción cinematográfica
@@ -28,7 +28,7 @@ En los últimos años he visto que el avance tecnológico ha transformado profun
 
 Antes de adentrame en el caso de Unreal Engine, creo que es crucial entender el concepto de hibridación según Manovich. En su obra *El software toma el mando*, Manovich describe la hibridación como un proceso mediante el cual diferentes medios se integran, no solo en términos de su contenido, sino también en su estructura, lógica y funcionalidad. Esta integración no implica simplemente una superposición, sino una transformación mutua que da lugar a un "nuevo medio" con características únicas.
 
-> "La hibridación de medios no es simplemente la suma de sus partes; es un proceso donde cada medio aporta su lógica y estructura, y ambas se combinan para formar algo nuevo y distintivo."  
+> "el resultado de la hibridación no es tan solo la suma mecánica de componentes previos, sino una nueva «especie»."  
 > (*El software toma el mando*, Lev Manovich.)
 
 La hibridación, por lo tanto, no debe confundirse con diferentes aplicaciones multimedia o digitales, que suele implicar la coexistencia de elementos de diferentes medios (como texto, imágenes y sonido) sin una integración profunda. En el caso de Unreal Engine, estamos ante una hibridación en el sentido total de la palabra: un motor gráfico muy potente que combina las lógicas del videojuego, la cinematografía y grandes pantallas de reproducción, redefiniendo las posibilidades estéticas de la producción cinematográfica.
@@ -43,7 +43,7 @@ Unreal Engine es un software diseñado inicialmente para renderizar gráficos en
 
 Como comentaba más arriba y para darle continuidad, lo que hace único y especial a Unreal Engine no es solo su capacidad técnica, sino la forma en que reconfigura la manera en la que se filma una película o una serie. Tradicionalmente, la preproducción, producción y posproducción eran fases separadas y lineales. Con Unreal Engine, estas etapas se integran en un flujo continuo, donde los entornos digitales pueden ajustarse instantáneamente durante el rodaje.
 
-> "El software permite que los procesos creativos sean fluidos, integrados y altamente adaptables, desafiando las estructuras tradicionales de producción."  
+> "La adopción de este entorno y proceso de producción que se basa en un grupo reducido de aplicaciones compatibles en todas las áreas de las industrias creativas ha tenido una gran repercusión"  
 > (*El software toma el mando*, Lev Manovich.)
 
 Esta fluidez no solo optimiza los tiempos de producción, sino que también abre nuevas posibilidades creativas. Los directores pueden experimentar con diferentes configuraciones de cámara y luz en tiempo real, mientras los actores se sumergen en entornos que se sienten como reales. Este nivel de interacción entre humanos y medios digitales es, yo lo considero en toda su esencia, un ejemplo de hibridación, donde las lógicas del software y las necesidades humanas se fusionan para generar el resultado final que vemos en pantalla.
@@ -57,7 +57,7 @@ En el siguiente vídeo (presiona sobre la imagen de abajo para ver el vídeo)se 
 
 Unreal Engine no se limita a ser una herramienta técnica; considero que es un **metamedio** en el sentido que describe Manovich. Actúa como un entorno donde múltiples medios (cine, videojuegos, diseño arquitectónico) no solo coexisten, sino que se relacionan entre sí de tal manera que se fusionan para crear algo completamente nuevo. 
 
-> "El software, al convertirse en un metamedio, redefine no solo la producción de los medios, sino también las formas en que estos son percibidos e interpretados."  
+> "Este metamedio es único en muchos sentidos. Uno de estos sentidos ya lo he analizado atentamente: podía representar a la mayor parte de medios, pero reforzándolos con muchas propiedades de nueva creación"  
 > (*El software toma el mando*, Lev Manovich.)
 
 En este contexto, el lenguaje cinematográfico tradicional, basado en cámaras físicas y escenarios físicos reales, se combina con las posibilidades ilimitadas de los gráficos generados por ordenador usando Unreal Engine. Esto permite una flexibilidad narrativa y visual que antes era impensable. Por ejemplo, en *The Mandalorian*, los paisajes en los planetas del universo de Star Wars no solo son escenarios, se convierten en personajes en sí mismos, contribuyendo a la atmósfera y la narrativa de la serie. Este tipo de representación híbrida es un claro ejemplo de cómo la hibridación puede enriquecer el lenguaje de los medios.
@@ -69,7 +69,7 @@ En este contexto, el lenguaje cinematográfico tradicional, basado en cámaras f
 
 Aunque esta tecnología la considero brillante también tengo que verlo desde una visión algo más crítioca. Si bien la adopción de Unreal Engine ha democratizado la capacidad de crear escenarios visualmente impactantes, también existe el riesgo de que la estética de las producciones sea similar entre todas las producciones cinematográficas. Al utilizar un conjunto limitado de herramientas y efectos, los creadores pueden caer en una especie de "look estándar", donde las producciones, aunque técnicamente avanzadas, carecen de lo que se puede denominar como la propia alma de la película. 
 
-> "La lógica del software no solo configura el contenido; también impone una estética compartida que puede homogeneizar las producciones."  
+> "La lógica del software configura el contenido y sus ‘interpretaciones’ siempre incorporan determinadas declaraciones."  
 > (*El software toma el mando*, Lev Manovich.)
 
 Esta "línea recta" estética podría hacer que el público se acostumbre a ciertos tipos de escenarios visuales generados por Unreal Engine, lo que al final limitará la diversidad estilística que históricamente se ha logrado con técnicas cinematográficas más tradicionales y eso es algo que podemos ver hoy en día con las producciones sobresaturadas de CGI. Como además comenta uno de los mejores directores de cine en la actualidad, Christopher Nolan:
