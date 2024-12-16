@@ -95,7 +95,7 @@ Me apetece mucho comentar el caso de Traktor DJ de Native Instruments porque me 
 
 ![Traktor Dj Interface ](https://cdn2.musisol.com/75884-panoramic_default/pioneer-dj-plx-1000-plato-dj-profesional.jpg) 
 
-> "La tecnología digital no solo remedia lo existente, sino que genera nuevas capacidades y experiencias."
+> "El uso del software reconfigura gran parte de nuestras prácticas sociales y culturales más básicas y nos obliga a repensar los conceptos y teorías que desarrollamos para describirlas."
 > (*El software toma el mando*, Lev Manovich.)
 
 ---
@@ -109,7 +109,7 @@ Traktor DJ cuando lo analizas, no es solamente un software donde reproducir mús
 
 Toda esta combinación transforma el acto mismo de mezclar música en una práctica híbrida donde en todo momento se tiene que transmitir energía y emociones a las personas que escuchan. En el caso de Traktor creamos un nuevo lenguaje donde que se pueden practicas y exponer nuevas técnicas que permiten una experiencia interactiva y fluida, de igual manera como Manovic nos indica en su libro:
 
-> "La hibridación reconfigura las prácticas culturales y crea nuevos lenguajes."
+> "En los medios híbridos confluyen lenguajes previos y diferenciados. Intercambian propiedades, crean nuevas estructuras e interaccionan a los niveles más profundos."
 > (*El software toma el mando*, Lev Manovich.). 
 
 ---
