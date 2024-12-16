@@ -67,7 +67,7 @@ En este contexto, el lenguaje cinematográfico tradicional, basado en cámaras f
 
 ### 5. Riesgos a considerar
 
-Aunque esta tecnología la considero brillante también tengo que verlo desde una visión algo más crítioca. Si bien la adopción de Unreal Engine ha democratizado la capacidad de crear escenarios visualmente impactantes, también existe el riesgo de que la estética de las producciones sea similar entre todas las producciones cinematográficas. Al utilizar un conjunto limitado de herramientas y efectos, los creadores pueden caer en una especie de "look estándar", donde las producciones, aunque técnicamente avanzadas, carecen de lo que se puede denominar como la propia alma de la película. 
+Aunque esta tecnología la considero brillante también tengo que verlo desde una visión algo más crítioca. Si bien la adopción de Unreal Engine ha democratizado la capacidad de crear escenarios visualmente impactantes, también existe el riesgo de que la estética de las producciones sea similar entre todas las producciones cinematográficas. Al utilizar un conjunto limitado de herramientas y efectos, los creadores pueden caer en una especie de "look estándar", donde las producciones, aunque técnicamente avanzadas, carecen de lo que se puede denominar como la propia alma de la película. Manovich señala que "La lógica del software configura el contenido y sus ‘interpretaciones’", y esto podría traducirse en una producción audiovisual más centrada en las capacidades del software que en la narrativa única de cada obra.
 
 > "La lógica del software configura el contenido y sus ‘interpretaciones’ siempre incorporan determinadas declaraciones."  
 > (*El software toma el mando*, Lev Manovich.)
